@@ -1,3 +1,10 @@
-    :root{
-        --cor--de-fundo:#00ffd5;
-    }
+@import url("styles/header.css");
+:root{
+    --cor--de--fundo:#022149;
+    --branco: #ffffff;
+    --laranja: #eb9800;
+    --azul-degrade:linear-grandient(97.54deg, #002f52 35.49%, #326589 165%);
+    --fonte-principal:'poppins';
+    --azul: #0400ff;
+
+}
